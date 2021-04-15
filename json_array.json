@@ -1,0 +1,56 @@
+
+
+[
+    {
+    "firstname":"Mary",
+    "height":180,
+    "email":"Mary@gmail.com",
+    
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"02-29881055",
+        "行動電話":"0933-852177"
+
+    },
+    "cars":["BMW","Nissan GT-R","Audi"]
+    
+    },
+    {
+    "firstname":"Jack",
+    "height":179,
+    "email":"Jack@gmail.com",
+    
+    "city":{
+        "通訊地址":"基隆",
+        "戶籍地址":"台北"
+    },
+    "phone":{
+        "市話":"02-24655555",
+        "行動電話":"0933-766733"
+
+    },
+    "cars":["cow","cat","duck"]
+    },
+
+
+    {
+    "firstname":"Ray",
+    "height":170,
+    "email":"yopn4yopn4@gmail.com",
+    
+    "city":{
+        "通訊地址":"屏東",
+        "戶籍地址":"台東"
+    },
+    "phone":{
+        "市話":"02-24665588",
+        "行動電話":"0905-789354"
+
+    },
+    "cars":["Wow","Janifer","Lolpez"]
+    }
+
+]
